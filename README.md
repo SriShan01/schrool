@@ -29,10 +29,13 @@
 - Git
 
 ### commands ->
+
 ### npm install
+
 ### npm run dev
 
 ### backend - 8000
+
 ### frontend - 8080
 
 ### .env ->
@@ -51,7 +54,7 @@
 
 ### REDIS_URL = acquire one
 
-### ACTIVATION_SECRET = 23425acquire one56476589
+### ACTIVATION_SECRET = acquire one
 
 ### SMTP_HOST = smtp.gmail.com
 
