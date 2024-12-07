@@ -28,6 +28,13 @@
 - Prettier
 - Git
 
+### commands ->
+### npm install
+### npm run dev
+
+### backend - 8000
+### frontend - 8080
+
 ### .env ->
 
 ### PORT = 8000;
@@ -58,4 +65,4 @@
 
 ### ACCESS_TOKEN = acquire one
 
-### REFRESH_TOKEN = acquire one
+### REFRESH_TOKEN = acquire ones
